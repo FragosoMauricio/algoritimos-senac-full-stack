@@ -24,3 +24,5 @@ if (maior) {
 } else {
   alert("Os números são iguais.");
 }*/
+
+let teste = 3
